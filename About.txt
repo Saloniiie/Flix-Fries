@@ -1,0 +1,11 @@
+Aditya - adityakhatri2001@gmail.com
+Astha -  asthasingh7295@gmail.com
+Harshita - harshitakamra392@gmail.com
+Saloni - sk27102002@gmail.com
+Yashi -  yashi4846@gmail.com
+
+"Flix and Fries" project is our end semester project made completely using java based on GUI (Swings). It comprises of all the 
+object oriented concepts and features like file handling, exception handling, interfaces and packages.Our project is a  small 
+version of IMDB. Here the user can find the information and reviews of few highly ranked movies and tv series! The user can also 
+submit their own reviews and rating!! 
+Hope u like it :D
